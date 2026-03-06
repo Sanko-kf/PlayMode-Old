@@ -63,6 +63,38 @@
 
 The goal of **PlayMode** is to provide a **simple and elegant** solution for those who want to turn a PC into a gaming console, with an interface that can be **fully controlled with a gamepad**. The project is built around **[Playnite](https://playnite.link/)** to unify your game libraries and automates a series of configurations for maximum immersion right from startup.
 
+## Current PlayMode Status
+
+PlayMode is currently **on hold**.
+
+After multiple redesign attempts, Windows became increasingly unstable for this project goal (unpredictable controller behavior, system-level conflicts, and high maintenance for unreliable results).  
+In its current state, continuing on Windows is no longer the best use of development time.
+
+Active development has now moved to Linux, under a dedicated new project:
+
+- **Steam Gaming Mode - NVIDIA**: [github.com/Sanko-kf/steam-gaming-mode-nvidia](https://github.com/Sanko-kf/steam-gaming-mode-nvidia)
+
+### What this means
+
+- PlayMode (Windows) remains as an archive/reference.
+- The Windows rework is paused and kept private for now.
+
+### Why this decision
+
+The Linux ecosystem is currently better suited for this kind of "console-like" experience, with better control and a healthier long-term path for the project.
+
+A huge thank you to everyone who contributed to PlayMode in any way.  
+This project truly meant a lot to me, and it was my first real project from the heart. <3
+
+I am taking PlayMode in a completely new direction: Linux.
+
+Yes, solutions like Bazzite already exist, but NVIDIA is still complicated when Gamescope is involved.  
+My current goal is to provide a practical temporary solution for NVIDIA users.
+
+If there is real demand, I will build a proper custom distro around this vision.
+
+This is what the future of PlayMode now means: a real identity that brings together the best parts of today's distros, built by passion.
+
 ## Features
 
 - **Unified Interface**: Brings together all your games (Steam, Epic, GOG, emulators...) in one place using **[Playnite](https://playnite.link/)**.
