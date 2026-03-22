@@ -59,41 +59,15 @@
   The theme used here is <a href="https://github.com/And360red/Solaris" target="_blank"><em>Solaris</em></a>.
 </div>
 
-## Project Vision
-
-The goal of **PlayMode** is to provide a **simple and elegant** solution for those who want to turn a PC into a gaming console, with an interface that can be **fully controlled with a gamepad**. The project is built around **[Playnite](https://playnite.link/)** to unify your game libraries and automates a series of configurations for maximum immersion right from startup.
-
 ## Current PlayMode Status
 
-PlayMode is currently **on hold**.
+A completely **reworked version of PlayMode** is now available.
 
-After multiple redesign attempts, Windows became increasingly unstable for this project goal (unpredictable controller behavior, system-level conflicts, and high maintenance for unreliable results).  
-In its current state, continuing on Windows is no longer the best use of development time.
+This previous iteration is no longer functional due to repository name changes and the inherent instability of the Windows-based approach. As such, this version is officially deprecated and will be **deleted in the coming months**.
 
-Active development has now moved to Linux, under a dedicated new project:
+I am thrilled to introduce a much more optimized and stable solution than the previous attempts. To ensure a reliable, conflict-free experience, the project is now based on a custom iso of windows with tiny11.
 
-- **Steam Gaming Mode - NVIDIA**: [github.com/Sanko-kf/steam-gaming-mode-nvidia](https://github.com/Sanko-kf/steam-gaming-mode-nvidia)
-
-### What this means
-
-- PlayMode (Windows) remains as an archive/reference.
-- The Windows rework is paused and kept private for now.
-
-### Why this decision
-
-The Linux ecosystem is currently better suited for this kind of "console-like" experience, with better control and a healthier long-term path for the project.
-
-A huge thank you to everyone who contributed to PlayMode in any way.  
-This project truly meant a lot to me, and it was my first real project from the heart. <3
-
-I am taking PlayMode in a completely new direction: Linux.
-
-Yes, solutions like Bazzite already exist, but NVIDIA is still complicated when Gamescope is involved.  
-My current goal is to provide a practical temporary solution for NVIDIA users.
-
-If there is real demand, I will build a proper custom distro around this vision.
-
-This is what the future of PlayMode now means: a real identity that brings together the best parts of today's distros, built by passion.
+- **New PlayMode (Reworked)**: [github.com/Sanko-kf/PlayMode](https://github.com/Sanko-kf/PlayMode)
 
 ## Features
 
